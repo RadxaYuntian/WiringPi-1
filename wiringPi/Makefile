@@ -67,7 +67,8 @@ SRC	=	wiringPi.c						\
 		khadas_vim2.c					\
 		khadas_vim3.c                                   \
 		khadas_vim4.c                                   \
-		khadas_edge.c						
+		khadas_edge.c					\					
+		radxa_zero2.c				
 
 HEADERS =	$(shell ls *.h)
 
